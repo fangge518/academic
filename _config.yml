@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ge_print_02.jpg"
   name             : "Ge Fang"
   pronouns         : # example: "she/her"  
   bio              : "Ex-programmer turned philosopher of technology"
