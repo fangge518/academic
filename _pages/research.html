@@ -5,4 +5,58 @@ permalink: /research/
 author_profile: true
 ---
 
-<p>This is a test page for research content. More content coming soon.</p>
+<style>
+.research-nav {
+  margin-top: 2em;
+  padding-top: 1em;
+}
+.research-nav::before {
+  content: "";
+  display: block;
+  width: 100px;
+  height: 2px;
+  background-color: #333;
+  margin-bottom: 1em;
+}
+.research-nav a {
+  margin-right: 0.5em;
+}
+.project-section {
+  margin-top: 2em;
+  padding-top: 1em;
+}
+.project-section::before {
+  content: "";
+  display: block;
+  width: 100px;
+  height: 2px;
+  background-color: #333;
+  margin-bottom: 1em;
+}
+.project-section:first-of-type::before {
+  display: none;
+}
+.project-title {
+  font-weight: bold;
+  font-size: 1.3em;
+  margin-bottom: 1em;
+}
+</style>
+
+<div class="research-nav">
+  {% for project in site.data.research.projects %}
+    <a href="#{{ project.id }}">{{ project.nav_label }}</a>{% unless forloop.last %} | {% endunless %}
+  {% endfor %}
+</div>
+
+{% for project in site.data.research.projects %}
+<div id="{{ project.id }}" class="project-section">
+  <div class="project-title">{{ project.title | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+  
+  <p>{{ project.intro | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+  
+  {% for paper in project.papers %}
+  <p><em>* {{ paper.title }}:</em> {{ paper.description | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+  {% endfor %}
+</div>
+{% endfor %}

@@ -1,0 +1,115 @@
+projects:
+  - id: decomposing-expertise
+    title: "Decomposing expertise: relating philosophy and *technê* in philosophy of technology"
+    nav_label: "Decomposing expertise"
+    intro: >
+      What do seekers of understanding and virtues, i.e., philosophers, add 
+      to the study of technê, over and above the historical and socio-political accounts? 
+      If, as Aristotle suggests, understanding, virtue, and technê are mutually exclusive categories, 
+      then philosophy of technology seems unmotivated.
+      I **propose a novel approach to define philosophy of 
+      technology that assimilates *epistêmê* as a special kind of *technê*.** 
+      Philosophy of technology, then, should primarily account for the type of 
+      *technê* underlying scientific understanding.
+    papers:
+      - title: "Gaining expertise in three dimensions (under review)"
+        description: >
+          I **distinguish between three axes of excellence in *technê***—**improvisational, 
+          virtuosic, and physical excellence**—based on the difference in how the 
+          excellence is acquired. Improvisational excellence is mostly demonstrated 
+          in medical diagnosis, competitive sports, engineering, hunting, and *scientific 
+          understanding*; virtuosic excellence in virtuosic piano and violin playing; 
+          and physical excellence in strength and endurance in cycling and swimming. 
+          Contrary to the prominent idea that deliberate practice is essential for 
+          expertise acquisition across many fields, I show that it is essential for 
+          improving only virtuosity, not physical and improvisational excellence.
+      - title: "Two planned papers"
+        description: >
+          Many virtue theorists appeal to *technê* to account for virtues. The kind 
+          of *technê* they are looking for is specific types of improvisation, such 
+          as communicative and emotional improvisation. I am drafting a paper with 
+          Anya Plutynski on how expertise in psychotherapy is scaffolded by other 
+          affective capacities. Utilizing my computer science background, I am also 
+          outlining a paper that distinguishes the communicative expertise between 
+          human writers/speakers and ChatGPT.
+        
+  - id: historicising-expertise
+    title: "Historicising expertise: delimiting evolutionary explanation in philosophy of science"
+    nav_label: "Historicising expertise"
+    intro: >
+      Can natural sciences and social sciences share the same method? Philosophers 
+      of biology are interested in understanding whether and how evolutionary models 
+      can be applied to account for the culture of human foragers, including their 
+      hunting and crafting expertise. There are three stances. Radical supporters 
+      of biologizing culture, such as evolutionary psychologists, explain culture 
+      by biological traits such as intelligence. Moderate supporters, such as cultural 
+      evolutionists, argue that culture forms its autonomous lineages, but still 
+      insist on using evolutionary models to account for cultural change. Many 
+      philosophers of biology criticize the radical approach but welcome the moderate 
+      approach. By criticizing the moderate approach, I side with most practicing 
+      social scientists in denying the prospect of biologizing culture.
+    papers:
+      - title: "Which culture can be invented alone? (under review)"
+        description: >
+          Cultural evolutionists intend to use evolutionary models to explain "complex" 
+          skills, but it is unclear how we judge a skill to be "complex." I argue 
+          that existing definitions of technical "complexity" fall short at both 
+          motivating evolutionary explanation and covering a wide range of the ostensible 
+          examples. Instead, I argue that a long developmental duration is a more 
+          suitable criterion for cultural evolutionary explanations. By doing so, 
+          I **clarify the intended explanatory targets of cultural evolutionary models 
+          as expertise**.
+      - title: "Nominal inheritance relation in evolution by natural selection (draft)"
+        description: >
+          It is commonly believed that evolution by natural selection requires 
+          inheritance relations among individuals, exemplified by a typical family 
+          tree. What counts as an inheritance relation remains unclear. I argue 
+          against a reproduction-based conception of the inheritance relation, and 
+          instead argue for a more nominal conception of inheritance relation that 
+          subsumes reproductive relations as a special case. I **distinguish the 
+          issue of identifying lineages for selection from another issue that is 
+          often conflated with it—the identification of the units that constitute 
+          memory of evolution.**
+      - title: "The misuse of cultural evolutionary models (draft)"
+        description: >
+          I argue that cultural evolutionary models are unsuitable for explaining 
+          change in hunting and crafting expertise. As improvisational expertise, 
+          the learning of hunting and crafting depends on multiple social sources, 
+          thus precluding clear inheritance relations even under the nomical conception. 
+          This paper **finalizes my case against the biologizing of social sciences**.
+      
+  - id: analyzing-mind
+    title: "Analyzing mind in expertise: understanding the origin of sociality in philosophy of mind"
+    nav_label: "Analyzing mind in expertise"
+    intro: >
+      Biologically and archeologically informed philosophers of mind believe expertise 
+      is a key part in explaining the origin of the human mind. Complex hunting 
+      and crafting skills create selection pressures for better mental capacities 
+      to socialize, to imitate, and to conform to social norms.
+    papers:
+      - title: "Can we test if culture evolves faster than biology? (under review)"
+        description: >
+          Cultural evolutionists say social learning is more advantageous because 
+          it speeds up skill evolution in comparison to biological evolution in a 
+          fast-changing environment. I argue that this claim of relative speed advantage 
+          of cultural evolution is untestable because it relies on claims regarding 
+          imaginary populations that biologically inherited complex skills. This 
+          untestability **indicates a new shortcoming of the adaptationist strategy 
+          of looking for "fit" in accounting for human psychological capacities**.
+      - title: "Skill and the origin of normative psychology (draft)"
+        description: >
+          Some believe that normative cognition functions to *motivate* the improvement 
+          of crafting expertise. However, excellence in crafting is improvisational 
+          rather than virtuosic. I argue that **during the development of improvisational 
+          expertise, norms operate as scaffolds or Wittgensteinian ladders**, structures 
+          that enable learners to construct the basic form of skilled behaviour, 
+          but which can be discarded for more flexible cognitive control once expertise 
+          is achieved.
+      - title: "Two planned papers"
+        description: >
+          Expertise acquisition requires not only capacities for social learning 
+          and norms, but also the capacities to read others' mind and to use words. 
+          I will investigate the origin of these capacities from the perspective 
+          of expertise acquisition. This strand of research will help construct a 
+          better story on the origin of our mind and help provide practical heuristics 
+          for developing epistemic and moral skills.
