@@ -1,36 +1,36 @@
 projects:
   - id: decomposing-expertise
-    title: "Decomposing expertise: relating philosophy and *technê* in philosophy of technology"
+    title: "Decomposing expertise: what domains of expertise should philosophers care about?"
     nav_label: "Decomposing expertise"
     intro: >
-      What do seekers of understanding and virtues, i.e., philosophers, add 
-      to the study of technê, over and above the historical and socio-political accounts? 
-      If, as Aristotle suggests, understanding, virtue, and technê are mutually exclusive categories, 
-      then philosophy of technology seems unmotivated.
-      I **propose assimilating understanding and virtue to special kinds of *technê*.** 
-      Philosophy of technology, then, should primarily account for such types of  
-      *technê*.
+      Expertise is philosophically interesting for many reasons: as an analogue for virtue development, as a selective pressure for the evolution of the human mind, and for some epistemologists a distinctive type of knowledge. But expertise is not one thing. **Which domains
+      of expertise should philosophers focus on for case studies**?
     papers:
       - title: "Gaining expertise in three dimensions (under review)"
         description: >
-          I **distinguish between three axes of excellence in *technê***—**improvisational, 
-          virtuosic, and strength-based**—**based on how the 
-          excellence is acquired**. One gains improvisational excellence (e.g., medical diagnosis,
-          competitive sports, engineering, and hunting) through experiential variation,
-          virtuosic excellence (e.g., virtuosic piano and violin) through deliberate practice,
-          and strength-based excellence (e.g., strength and endurance in cycling and swimming)
-          through properly spaced repetitions. My account **expands the prominent deliberate-practice
-          theory of expertise acquisition and subsumes it as a special case**.
-      - title: "Two planned papers"
+          Applied psychologists have accumulated rich data on how expertise is acquired in music, sports, medicine, and beyond, which can help us **sort the different kinds of expertise by how they are acquired**. I **distinguish between three dimensions of excellence**—**virtuosity,
+          versatility, and vigor**—**based on how the excellence is acquired**. My account **expands the prominent
+          deliberate-practice theory of expertise acquisition and subsumes it as a special case**.
+      - title: "Permanent scaffolding of social expertise (with Anya Plutynski; Acta Biotheoretica, 2026)"
         description: >
-          Many virtue theorists appeal to *technê* to account for virtues. The kind 
-          of *technê* they are looking for is specific types of improvisation, such 
-          as communicative and emotional improvisation. I am drafting a paper with 
-          Anya Plutynski on how expertise in psychotherapy is scaffolded by other 
-          affective capacities. Utilizing my computer science background, I am also 
-          outlining a paper that distinguishes the communicative expertise between 
-          human writers/speakers and ChatGPT.
-        
+          Of the three dimensions, versatility, or improvisational expertise, matters most
+          for philosophical purposes, yet it remains the most elusive. In this paper, we study two of the best-studied social, improvisational
+          domains, jazz improvisation and scientific research, and argue that **social structure
+          functions in these domains in contrast to our ordinary conception of social scaffolding
+          as a temporary structure**: the scaffolds that bring a learner to maturity remain
+          needed to sustain and develop the expertise.
+          [Read the paper](https://doi.org/10.1007/s10441-026-09533-8).
+      - title: "Who bears the skill? (in progress)"
+        description: >
+          One question that interests both software engineers and philosophers of technology is
+          **how machine expertise should be classified, and how it contrasts with
+          distinctively human expertise**. One obstacle to studying this question
+          rigorously is that it is unclear what bears the skill: in agentic AI use, a
+          skilled performance is produced by a model, a harness, accumulated memory, and a
+          person together. I propose desiderata
+          for the individuality of a skill bearer, which point to the person extended by AI
+          infrastructure, rather than the model, as the suitable unit of analysis.
+
   - id: historicising-expertise
     title: "Historicising expertise: delimiting evolutionary explanation in philosophy of science"
     nav_label: "Historicising expertise"
@@ -47,16 +47,15 @@ projects:
       approach. By criticizing the moderate approach, I side with most practicing 
       social scientists in denying the prospect of biologizing culture.
     papers:
-      - title: "Which culture can be invented alone? (under review)"
+      - title: "Which cultural complexity needs cumulative explanation? (Biology & Philosophy, 2026)"
         description: >
-          Cultural evolutionists intend to use evolutionary models to explain "complex" 
-          skills, but it is unclear how we judge a skill to be "complex." I argue 
-          that existing definitions of technical "complexity" fall short at both 
-          motivating evolutionary explanation and covering a wide range of the ostensible 
-          examples. Instead, I argue that a long developmental duration is a more 
-          suitable criterion for cultural evolutionary explanations. By doing so, 
-          I **clarify the intended explanatory targets of cultural evolutionary models 
-          as expertise**.
+          Before asking whether evolutionary models can explain culture, we need to know
+          what they are meant to explain. Cultural evolutionists reserve their models for
+          "complex" skills that no one could invent alone, but it is unclear what makes a
+          skill "complex." I argue that the relevant complexity lies in a skill's
+          development, which **identifies the intended explanatory targets of cultural
+          evolutionary models as expertise**.
+          [Read the paper](https://doi.org/10.1007/s10539-026-10024-w).
       - title: "Nominal inheritance relation in evolution by natural selection (draft)"
         description: >
           It is commonly believed that evolution by natural selection requires 

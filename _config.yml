@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Ge Fang"
 title_separator          : "-"
 name                     : &name "Ge Fang"
-description              : &description "Philosopher of technology — exploring expertise, evolution, and learning."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Philosopher of science — exploring expertise, evolution, and learning."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ge-fang.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "ge_print_02.jpg"
   name             : "Ge Fang"
   pronouns         : # example: "she/her"  
-  bio              : "Ex-programmer turned philosopher of technology"
+  bio              : "Research software engineer and philosopher of science"
   location         : "Chicago, US"
-  employer         : "Independent Scholar"
+  employer         : "University of Chicago"
   uri              : # URL
   email            : "fangge518@gmail.com"
 
